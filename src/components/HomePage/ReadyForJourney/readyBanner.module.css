@@ -1,0 +1,42 @@
+.readyBanner{
+    display: flex;
+    background-color: #FFFCF2;
+    /* width: 78%; */
+    width:78.75rem;
+    margin:7.5rem auto 0;
+    height: 24.125rem;
+    border-radius: 1.875rem;
+}
+.content{
+    /* margin: 2rem 2rem; */
+    margin-left:4.563rem;
+    margin-top:4.25rem;
+    width: 60%;
+}
+.content h1{
+    font-size: 2.875rem;
+    font-weight: 800;
+    line-height: 3.875rem;
+}
+.controls{
+    margin-top: 3.125rem;
+    /* width: 55%; */
+     display: flex;
+     /*
+    justify-content: space-between; */
+}
+
+.btn{
+    width: 11.188rem;
+    height:3.5rem;
+    border-radius: 2.25rem;
+    font-weight: 700;
+    font-size: 1rem;
+    justify-content: center;
+    margin-right: 1.813rem;
+}
+.image img{
+    margin-top: -3.188rem;
+    height: 27.313rem;
+    width: 27.313rem;
+}

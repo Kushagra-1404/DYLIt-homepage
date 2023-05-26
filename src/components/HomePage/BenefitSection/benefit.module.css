@@ -1,0 +1,63 @@
+.benefit{
+    margin-top:7.5rem;
+}
+
+.benefit h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 3.625rem;
+    /* identical to box height */
+    letter-spacing: -1px;
+}
+/* .benefit table{
+    margin: 2rem auto;
+    width: 80%;
+    background-color: transparent;
+}
+.benefit table tr{
+    height: 5rem;
+}
+.benefit table tr td{
+}
+.benefit table tr td p{
+    margin-top: 1rem;
+    font-size: 24px;
+    font-weight: 600;
+}
+.benefit table tr td img{
+    width: 67px;
+    height: 67px;
+} */
+.benefitCard{
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:3.75rem;
+    width: 68.75rem;
+    /* display: grid;
+    grid-template-columns: repeat(3,40%); */
+    display: flex;
+    flex-direction: column;
+}
+.benefitCard div{
+    display: flex;
+    justify-content: space-between;
+}
+.row2{
+    margin-top:5rem;
+}
+.benefitCard div div{
+    display: flex;
+    flex-direction: column;
+    width:11.813rem;
+    /* margin-top: 2rem; */
+}
+.benefitCard div div img{
+    height: 4.188rem;
+    width:4.188rem;
+}
+.benefitCard div div p{
+    margin-top: 1.875rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

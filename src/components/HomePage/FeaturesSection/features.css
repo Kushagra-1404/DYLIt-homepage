@@ -1,0 +1,58 @@
+.features{
+    margin: 5rem auto;
+    width: 90%;
+}
+
+.title-desc{
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.title{
+    
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #FF7A3D;
+
+}
+
+.features h1{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.features h2{
+    font-weight: 700;
+    font-size: 36px;
+    /* line-height: 66px; */
+    text-align: center;
+}
+
+.features table{
+    margin: 2rem auto;
+    width: 80%;
+    background-color: transparent;
+}
+
+.card-title{
+    margin-top: 1rem;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.card-desc{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727888;
+}
+
+.features table tr td img{
+    width: 67px;
+    height: 67px;
+}
+/* .features table tr{
+    height: 5rem;
+} */

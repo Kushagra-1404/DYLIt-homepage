@@ -1,0 +1,25 @@
+.btn{
+    display:flex;
+    align-items: center;
+    border: none;
+    background-color: #FF7A3D;
+    color:white;
+    /* padding: 0.625rem 1.25rem; */
+    /* height: 2.313rem; */
+    /* border-radius: 5.25rem; */
+    /* font-size: 1rem; */
+    /* font-weight: 500; */
+    /* convert all of the above to tailwindcss */
+    /* @apply flex items-center bg-[#FF7A3D] text-[white] h-[2.313rem] text-base font-medium px-5 py-2.5 rounded-[5.25rem] border-[none];
+     */
+}
+.btn:hover{
+    /* cursor: pointer;
+    background-color: #fad6c6;
+    color: #FF7A3D; */
+    @apply cursor-pointer bg-[#fad6c6] text-[#FF7A3D];
+}
+
+/* .btn {
+  @apply flex items-center bg-[#FF7A3D] text-[white] h-[2.313rem] text-base font-medium px-5 py-2.5 rounded-[5.25rem] border-[none];
+} */

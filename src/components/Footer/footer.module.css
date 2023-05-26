@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    width: 78.75rem;
+    margin: 6.25rem auto 6.813rem;
+    justify-content: space-between;
+    /* background-color: #E5E5E5; */
+}

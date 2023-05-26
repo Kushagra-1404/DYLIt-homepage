@@ -1,0 +1,51 @@
+@media screen and (min-width:1500px){
+
+    .navbar{
+        margin-left:13.125rem;
+        margin-right:13.125rem;   
+    }
+
+}
+.navbar{
+    margin:2.188rem auto 0;
+    width:78.75rem;
+    height: 2.313rem;
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Inter";
+}
+
+
+.navContainer{
+    /* margin-left: auto;
+    margin-right: 2rem; */
+    display: flex;
+    align-items: center;
+    width: 27.813rem;
+    justify-content: space-between;
+}
+ .signUpBtn{
+    padding: 0.625rem 1.25rem;
+    height: 2.313rem;
+    width: 5.563rem;
+    border-radius: 5.25rem; 
+    font-size: 0.875rem; 
+    font-weight: 700; 
+} 
+
+.logo{
+    /* margin-left: 8rem; */
+    font-size: 1.75rem;
+    font-weight: 900;
+}
+
+.navContainer a{
+    text-decoration: none;
+}
+.navs{
+    font-size:0.875rem;
+    font-weight: 500;
+    color: #1D252D;
+}

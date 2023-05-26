@@ -1,0 +1,19 @@
+.links{
+    /* width: 15%; */
+}
+.links a{
+    text-decoration: none;
+}
+.iconLinks{
+    margin-top: 1.125rem;
+    width: 10.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links h4{
+    font-weight: 700;
+    font-size:0.875rem;
+    color: #1E2228;
+}

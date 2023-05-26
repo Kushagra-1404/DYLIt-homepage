@@ -1,0 +1,44 @@
+@media screen and (min-width:1500px) {
+    .introSection{
+        margin-left:13.125rem;
+        margin-right:13.125rem;
+        /* width: 80%; */
+    }
+
+}
+
+
+.introSection{
+    /* margin: 1rem auto; */
+    margin:6.25rem auto 0;
+    width: 78.75rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.arrow{
+    /* width: 20%; */
+}
+.arrow-svg{
+    padding-top:6.961rem;
+    padding-left:4rem;
+}
+
+.intro{
+    margin-top: 0.438rem;
+    width: 27.375rem;
+}
+.intro .heading{
+    font-size: 3rem;
+    font-weight: 800;
+}
+.intro .description{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+}
+.intro .followers{
+    margin-top: 1rem;
+    width: 27.375rem;
+    height: 5.563;
+}

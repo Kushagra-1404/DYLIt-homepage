@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    font-family: 'Inter';
+
+    
+}
+.App{
+    /* background-color:hsla(18,100%,61%,0.25); */
+    /* background-image:
+    radial-gradient(at 1% 44%, hsla(18,100%,61%,0.38) 0px, transparent 50%),
+    radial-gradient(at 19% 55%, hsla(225,100%,51%,0.24) 0px, transparent 50%),
+    radial-gradient(at 100% 66%, hsla(18,100%,61%,0.38) 0px, transparent 50%),
+    radial-gradient(at 81% 78%, hsla(225,79%,51%,0.24) 0px, transparent 50%);
+    background-repeat: repeat-y;
+	background-size:100% 50%; */
+    color: #1D252D;
+}

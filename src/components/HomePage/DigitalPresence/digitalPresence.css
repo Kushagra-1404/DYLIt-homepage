@@ -1,0 +1,36 @@
+.digitalPresence{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 7.5rem auto 0;
+    width:75rem;
+    /* width: 78% */
+}
+
+.btn{
+    width:16.125rem;
+    height: 3.5rem;
+    border-radius: 3.188rem;
+    margin-top:1.75rem;
+    font-weight: 700;
+    font-size: 1.25rem;
+    justify-content: center;
+}
+
+.digitalPresence h1{
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom:1.5rem;
+}
+
+.digitalPresence p{
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.mobile-img{
+    width: 37.625rem;
+    height: 37.625rem;
+    margin-right:2rem;
+}

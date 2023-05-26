@@ -1,0 +1,17 @@
+.legal{
+    display: flex;
+    flex-direction: column;
+}
+.legal h4{
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: #1E2228;
+}
+.legal a{
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.938rem;
+    color: #1E2228;
+}
